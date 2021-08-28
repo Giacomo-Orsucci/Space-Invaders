@@ -7,3 +7,6 @@ The code is totally commented in English in the best way possible I was able to 
 Enjoy! I wish you'll find the code well-written and the program interesting!
 This is my first try with GithHub, so I'm sorry for any eventual mistake.
 If you need help or you only want to know something more about me or the code, contact me!
+
+
+Credits to Riccardo Pacini, my friend and school to have collaborated with me in this project. 
