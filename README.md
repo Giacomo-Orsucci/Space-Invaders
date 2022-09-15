@@ -7,7 +7,7 @@ I Recommend NetBeans 11.1, which I used during the development.
 
 Enjoy! I hope you'll find the code well-written and the program interesting! 
 
-You can also find a report on the program (in Italian) and all its design phase.
+You can also find a report about the program (in Italian) and all its design phase.
 This is my first try with GithHub, so I'm sorry for any eventual mistake. 
 If you need help or you only want to know something more about me or the code, contact me!
 
